@@ -1,5 +1,5 @@
 # Site settings
-title: Two Dogs Bookkeeping
+title: 3Dogs Walking
 email: your-email@domain.com
 baseurl: /jksite/
 description: "Write an awesome short description for your new site here. We are a foo business that provides bar, and baz services."
@@ -10,7 +10,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Two Dogs Bookkeeping
+footer: 3Dogs Walking
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
