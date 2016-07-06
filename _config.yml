@@ -1,7 +1,7 @@
 # Site settings
 title: 3Dogs Walking
 email: your-email@domain.com
-baseurl: /jksite/
+url: "http://3dogswalking.com"
 description: "Write an awesome short description for your new site here. We are a foo business that provides bar, and baz services."
 
 # Color settings (hex-codes without the leading hash-tag)
